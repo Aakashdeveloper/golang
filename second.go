@@ -12,3 +12,4 @@ func main(){
 func changeValue(x *int){
 	*x = 7
 }
+
