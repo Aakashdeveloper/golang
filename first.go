@@ -20,6 +20,6 @@ func main (){
 	fmt.Println("x%y = ", x%y)
 	fmt.Println("x%y = ", x%y)
 	fmt.Println("x%y = ", x%y)
-	fmt.Println("x9y = ", x%y)
+	fmt.Println("x10y = ", x%y)
 
 }
